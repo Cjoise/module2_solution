@@ -21,6 +21,7 @@ h1 {
 	padding: 0.1em 0.4em;
 	overflow: visible;
 	font-size: 125%;
+	margin: -1px -1px 0 0;
 	}
 .section, .region {
 	border: 1px solid black;
